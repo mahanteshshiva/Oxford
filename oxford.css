@@ -1,0 +1,94 @@
+#school_logo
+{
+font-size:30px;
+font-family:italic;
+color:#00FF00;
+background-color:#A52A2A;
+padding-top:30px;	
+}
+
+cite
+{
+font-size:20px;
+color:white;
+padding-left:80px;
+
+}
+
+#headings 
+{
+text-align:center;
+background-color:white;
+}
+
+#headings li
+{
+display:inline;
+padding-left:30px;
+font-size:20px;
+padding-top:40px;
+}
+
+.labelings
+{
+border-left:5px black solid;
+border-right:5px black solid;
+padding-right:80px;
+padding-left:50px;
+background-color:green;
+}
+
+a:unvisited
+{
+	color:red;
+}
+
+a:hover
+{
+	color:black;
+}
+
+a{text-decoration:none;
+}
+
+#image{
+	background-color:#228B22;
+padding-left:50px;
+	}
+
+ol
+{
+background-color:lightgrey;
+}
+
+aside
+{
+float:right;
+font-size:20px;
+margin-right:50px;
+height:320px;
+border-left:5px black solid;
+border-right:5px black solid;
+color:white;
+}
+
+table.table-bordered
+{
+	width:30%;
+	margin-left:50px;	
+}
+
+article{
+	margin-left:50px;
+}
+
+#h1{background-color:grey;
+width:15%;
+text-align:center;}
+
+.row
+{
+background-color:#A9A9A9;
+padding-left:30px
+}
+
